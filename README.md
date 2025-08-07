@@ -18,3 +18,9 @@
 
 #Experiencia previa
 -Proyectos en Senati y personales
+
+
+## Tecnologias que quiero aprender 
+-React
+-Docker
+-Node.js
