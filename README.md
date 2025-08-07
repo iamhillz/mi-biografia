@@ -17,7 +17,8 @@
 -Página web para una óptica
 
 #Experiencia previa
--Proyectos en Senati y personales
+-Proyectos en Senati(CRUD'S, login, ventas)
+ y personales
 
 
 ## Tecnologias que quiero aprender 
